@@ -16,9 +16,9 @@ int main()
     cout << age << endl;
     cout << age1 << endl;
     cout << nama << endl;
-    cout << "masukan panjang" << endl;
+    cout << "masukan panjang : ";
     cin >> p;
-    cout << "masukan lebar" << endl;
+    cout << "masukan lebar : ";
     cin >> l;
     luas = p * l;
     cout << "hasilnya : " << luas << endl;
